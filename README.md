@@ -23,6 +23,16 @@ Personal_Portfolio_Website/
 └── README.md # This file
 
 
+## 🖼️ Preview
+![Home section](https://github.com/user-attachments/assets/03cda1ac-948b-43d5-9fc6-f9d9e05f99e3)
+![About section](https://github.com/user-attachments/assets/09d588c7-5f28-47a4-b3c5-02ac09aa47f1)
+![About section](https://github.com/user-attachments/assets/b25593b3-4704-4d91-80d9-7ff1eb308f62)
+![experience section 1](https://github.com/user-attachments/assets/0c68e7ff-b45a-4540-a11f-f17e25467c3c)
+![experience section 2](https://github.com/user-attachments/assets/6d6bed9d-750b-4ced-811f-918d2b5cbd03)
+![experience section 3](https://github.com/user-attachments/assets/339a8ff2-54e7-4d07-924c-8d8c47d138fe)
+![Contact section](https://github.com/user-attachments/assets/0172d98e-6e8c-48c6-b50b-2cbb11951c9a)
+
+
 🛠️ Tech Stack
 Frontend: HTML5, CSS3, Vanilla JavaScript
 Design: Responsive Grid/Flexbox layout, CSS Variables
