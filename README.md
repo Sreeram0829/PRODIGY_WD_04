@@ -13,6 +13,7 @@ A modern, responsive personal portfolio website built using HTML, CSS, and JavaS
 🌙 Dark Mode Ready (future enhancement).
 ⚙️ Clean, modular CSS & JS structure.
 
+
 📁 Folder Structure
 Personal_Portfolio_Website/
 │
@@ -24,13 +25,15 @@ Personal_Portfolio_Website/
 
 
 ## 🖼️ Preview
-![Home section](https://github.com/user-attachments/assets/03cda1ac-948b-43d5-9fc6-f9d9e05f99e3)
-![About section](https://github.com/user-attachments/assets/09d588c7-5f28-47a4-b3c5-02ac09aa47f1)
-![About section](https://github.com/user-attachments/assets/b25593b3-4704-4d91-80d9-7ff1eb308f62)
-![experience section 1](https://github.com/user-attachments/assets/0c68e7ff-b45a-4540-a11f-f17e25467c3c)
-![experience section 2](https://github.com/user-attachments/assets/6d6bed9d-750b-4ced-811f-918d2b5cbd03)
-![experience section 3](https://github.com/user-attachments/assets/339a8ff2-54e7-4d07-924c-8d8c47d138fe)
-![Contact section](https://github.com/user-attachments/assets/0172d98e-6e8c-48c6-b50b-2cbb11951c9a)
+![Home section](https://github.com/user-attachments/assets/4e82c2e4-ecba-4435-a34b-ba16caf09453)
+![About section](https://github.com/user-attachments/assets/752c5f52-d355-4767-8ac2-f34f1e2a5029)
+![About section](https://github.com/user-attachments/assets/4022e8fc-ac93-445c-82dd-0c6bc43737b5)
+![experience section 1](https://github.com/user-attachments/assets/25f7d6c2-13ac-4754-a57a-f4678556eabd)
+![experience section 2](https://github.com/user-attachments/assets/ae9307bd-59c6-48ec-beff-ad6e8219f0c0)
+![experience section 3](https://github.com/user-attachments/assets/4181c316-65c1-428d-9ebd-96ff6e4b13e4)
+![Project section](https://github.com/user-attachments/assets/5f1527ce-021a-406b-8cc8-2730765267b4)
+![project section](https://github.com/user-attachments/assets/85cad96e-7151-4464-97e8-53573552dd8b)
+![contact section](https://github.com/user-attachments/assets/79c6f1eb-1005-4c25-8278-82946f8f29bc)
 
 
 🛠️ Tech Stack
@@ -40,9 +43,15 @@ Fonts: Segoe UI, Tahoma, Geneva, sans-serif
 Icons: Font Awesome (add via CDN if needed)
 
 🔧 How to Use
-1.Clone the repository: git clone https://github.com/your-username/your-portfolio.git
-2.Navigate to the project folder: cd your-portfolio
-3.Open index.html in your browser or use VS Code with Live Server.
+1.Clone the repository:
+git clone https://github.com/Sreeram0829/portfolio.git
+cd portfolio
+2.Open in Browser:
+Simply open index.html in any modern browser.
+3.Customize for Your Use (Optional):
+Replace images/pic1.jpg with your photo.
+Update the projects, skills, and experience in index.html.
+Modify colors in style.css if needed.
 
 
 ✨ Customization Guide
@@ -73,3 +82,6 @@ Developed as part of an internship project to demonstrate frontend skills.
 📅 Submission Date: 12/09/2025
 🎯 Track Code: WD
 🔢 Track Number: 04
+
+
+🌟 Feel free to fork, customize, and use this template for your own portfolio!
