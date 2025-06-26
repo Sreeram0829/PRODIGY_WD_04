@@ -36,6 +36,10 @@ Personal_Portfolio_Website/
 ![contact section](https://github.com/user-attachments/assets/79c6f1eb-1005-4c25-8278-82946f8f29bc)
 
 
+Live Deploy 
+(https://sreepersonalportfolio.netlify.app/)
+
+
 🛠️ Tech Stack
 Frontend: HTML5, CSS3, Vanilla JavaScript
 Design: Responsive Grid/Flexbox layout, CSS Variables
@@ -79,7 +83,7 @@ Developed as part of an internship project to demonstrate frontend skills.
 🧾 Internship Submission Details
 👨‍💻 Developed by: Chapala Sriram
 🏢 Internship: Prodigy Infotech
-📅 Submission Date: 12/09/2025
+📅 Submission Date: 27/09/2025
 🎯 Track Code: WD
 🔢 Track Number: 04
 
