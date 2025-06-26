@@ -37,7 +37,7 @@ Personal_Portfolio_Website/
 
 
 Live Deploy 
-(https://sreepersonalportfolio.netlify.app/)
+[https://sreepersonalportfolio.netlify.app/]
 
 
 🛠️ Tech Stack
